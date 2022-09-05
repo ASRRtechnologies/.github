@@ -1,14 +1,15 @@
-## Welcome to the ASRR Technologies official GitHub 👋
 
-ASRR focusses on innovative software development
+![Logo](https://asrr.nl/assets/logo/asrr.png)
 
-<!--
 
-**Here are some ideas to get you started:**
+# ASRR Technologies - Official GitHub
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is the official GitHub page for all ASRR projects. 
+ASRR - Innovative Software Development. https://asrr.nl
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://asrr.nl/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/asrr)
+
+
