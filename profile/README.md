@@ -1,5 +1,7 @@
 ## Welcome to the ASRR Technologies official GitHub 👋
 
+ASRR focusses on innovative software development
+
 <!--
 
 **Here are some ideas to get you started:**
