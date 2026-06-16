@@ -1,6 +1,6 @@
 <div align="center">
 
-![ASRR Technologies](https://asrr.nl/assets/logo/asrr.png)
+<img src="https://asrr.nl/icon.svg" alt="ASRR Technologies" width="96" />
 
 # ASRR Technologies
 
